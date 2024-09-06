@@ -1,5 +1,5 @@
 # project_innovateX
-##Smart Home Security System
+## Smart Home Security System
 A major project to be created during summer school 2024 presented by CFI
 (team work by Niraj, Megha and Purab)
 
