@@ -1,9 +1,9 @@
 # project_innovateX
 A major project to be created during summer school 2024 presented by CFI
+(team work by Niraj, Megha and Purab)
 
 This project contains 2 sections, 
 Electronics and Software
-
 To run the software part:
 # To run the code properly, follow the following steps
 
